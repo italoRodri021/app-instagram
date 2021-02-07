@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icCurtidasHome"
+        android:icon="@drawable/ic_round_favorite_unliked"
+        android:iconTint="@color/black"
+        android:title="Curtidas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/icDirect"
+        android:icon="@drawable/ic_outline_send_24"
+        android:iconTint="@color/black"
+        android:title="Direct"
+        app:showAsAction="ifRoom" />
+
+</menu>

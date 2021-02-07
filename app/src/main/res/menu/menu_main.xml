@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+
+        <item android:id="@+id/itemFavorito"
+            android:icon="@drawable/ic_baseline_favorite_border_24"
+            android:title="Favoritos"/>
+
+        <item android:id="@+id/itemDirect"
+            android:icon="@drawable/ic_baseline_send_24"
+            android:title="Direct"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684080079953",
+    "project_id": "app-instagram-e6c21",
+    "storage_bucket": "app-instagram-e6c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684080079953:android:be246772d38b55b9648470",
+        "android_client_info": {
+          "package_name": "com.italo.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684080079953-7vssdm270g4qd3k6qhugutqf18738l74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.italo.instagram",
+            "certificate_hash": "c9b7e4f3f5177cfd28860147dd0543de78ffd714"
+          }
+        },
+        {
+          "client_id": "684080079953-qptdbq26gqirptiojmt17r6k8adps444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47RftbbjIUmJoAUBmiGAp1eA5T_x6DKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684080079953-qptdbq26gqirptiojmt17r6k8adps444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

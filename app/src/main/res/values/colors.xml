@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#6ec6ff</color>
+    <color name="purple_500">#2196f3</color>
+    <color name="purple_700">#0069c0</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorText">#303030</color>
+    <color name="colorCinza">#D3D3D3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="instagramCircle">#F43F5D</color>
+</resources>
